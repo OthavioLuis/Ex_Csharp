@@ -11,7 +11,7 @@ namespace taboada
         static void Main(string[] args)
         {
             int a, b, c;
-            Console.Write("digite valor da taboada:");
+            Console.Write("digite valor da tabuada:");
             b = int.Parse(Console.ReadLine());
 
             for (a = 1; a <= 10; a++)
